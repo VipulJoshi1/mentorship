@@ -19,4 +19,4 @@
      - Hourly or minute basis
      - Number of requests to services
 - Instance Configuration In AWS, you can use spot instances to make it cost effective. Users pay for the spot price that’s effective at that particular hour and is adjusted over a period of time.
-- Container Services
+- Container Services.
